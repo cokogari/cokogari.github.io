@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cokogari.github.io/sitemap/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/GTX/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/hCO/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/PBa/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/nfx/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/Kku/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/DJR/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/arR/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/SoC/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/kSH/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/Dxv/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/POT/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/cNb/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/rDh/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/dLD/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/onT/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/gUn/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/cto/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/esH/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/VIP/sitemap_index.cokogari
+Sitemap: https://cokogari.github.io/VTN/sitemap_index.cokogari
